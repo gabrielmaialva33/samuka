@@ -1,0 +1,253 @@
+{
+  "version": "2.6",
+  "children": [
+    {
+      "type": "frame",
+      "id": "bi8Au",
+      "x": 75,
+      "y": -245,
+      "name": "Frame",
+      "clip": true,
+      "width": 544,
+      "height": 790,
+      "fill": "#FFFFFF",
+      "layout": "none",
+      "children": [
+        {
+          "type": "rectangle",
+          "id": "TxsyF",
+          "x": 40,
+          "y": 626,
+          "fill": "#CCCCCC",
+          "width": 464,
+          "height": 139
+        },
+        {
+          "type": "rectangle",
+          "id": "9N9XD",
+          "x": 187,
+          "y": 711,
+          "fill": "#CCCCCC",
+          "width": 175,
+          "height": 1
+        },
+        {
+          "type": "rectangle",
+          "id": "b1Wv5",
+          "x": 85,
+          "y": 512,
+          "fill": "#2ca730ff",
+          "width": 59,
+          "height": 63
+        },
+        {
+          "type": "rectangle",
+          "id": "8dWSP",
+          "x": 150,
+          "y": 747,
+          "fill": "#2ca730ff",
+          "width": 243,
+          "height": 43
+        },
+        {
+          "type": "text",
+          "id": "s5JYq",
+          "x": 237,
+          "y": 758,
+          "name": "labelFrente",
+          "fill": "#333333",
+          "content": "FRENTE",
+          "fontFamily": "Inter",
+          "fontSize": 18,
+          "fontWeight": "bold"
+        },
+        {
+          "type": "rectangle",
+          "id": "OnSsL",
+          "x": 253,
+          "y": 550,
+          "fill": "#CCCCCC",
+          "width": 251,
+          "height": 61
+        },
+        {
+          "type": "text",
+          "id": "xpvl6",
+          "x": 345,
+          "y": 571,
+          "name": "labelPassagem",
+          "fill": "#333333",
+          "content": "BANHEIROS",
+          "fontFamily": "Inter",
+          "fontSize": 16,
+          "fontWeight": "bold"
+        },
+        {
+          "type": "rectangle",
+          "id": "OKQwN",
+          "x": 433,
+          "y": 611,
+          "fill": "#2ca730ff",
+          "width": 59,
+          "height": 15
+        },
+        {
+          "type": "rectangle",
+          "id": "TtyVk",
+          "x": 85,
+          "y": 590,
+          "fill": "#2ca730ff",
+          "width": 59,
+          "height": 36
+        },
+        {
+          "type": "rectangle",
+          "id": "t0aRI",
+          "x": 45,
+          "y": 734,
+          "fill": "#5c32d3ff",
+          "width": 22,
+          "height": 24
+        },
+        {
+          "type": "rectangle",
+          "id": "DBMYP",
+          "x": 45,
+          "y": 633,
+          "fill": "#5c32d3ff",
+          "width": 22,
+          "height": 24
+        },
+        {
+          "type": "rectangle",
+          "id": "FcKmo",
+          "x": 85,
+          "y": 488,
+          "fill": "#5c32d3ff",
+          "width": 22,
+          "height": 24
+        },
+        {
+          "type": "rectangle",
+          "id": "fJ7RN",
+          "x": 45,
+          "y": 494,
+          "fill": "#5c32d3ff",
+          "width": 22,
+          "height": 24
+        },
+        {
+          "type": "rectangle",
+          "id": "arLcK",
+          "x": 470,
+          "y": 494,
+          "fill": "#5c32d3ff",
+          "width": 22,
+          "height": 24
+        },
+        {
+          "type": "rectangle",
+          "id": "fNc18",
+          "x": 45,
+          "y": 683,
+          "fill": "#9610a0ff",
+          "width": 22,
+          "height": 21
+        },
+        {
+          "type": "rectangle",
+          "id": "QaC4K",
+          "x": 45,
+          "y": 419,
+          "fill": "#9610a0ff",
+          "width": 22,
+          "height": 21
+        },
+        {
+          "type": "rectangle",
+          "id": "1bWsx",
+          "x": 313,
+          "y": 660,
+          "fill": "#28ccccff",
+          "width": 32,
+          "height": 46
+        }
+      ]
+    },
+    {
+      "type": "rectangle",
+      "id": "mIaQU",
+      "x": 115,
+      "y": 303,
+      "fill": "#CCCCCC",
+      "width": 192,
+      "height": 63
+    },
+    {
+      "type": "rectangle",
+      "id": "J2aRU",
+      "x": 115,
+      "y": -227,
+      "fill": "#CCCCCC",
+      "width": 464,
+      "height": 515
+    },
+    {
+      "type": "text",
+      "id": "ov9vR",
+      "x": 287,
+      "y": -169,
+      "name": "labelBarracao",
+      "fill": "#333333",
+      "content": "BARRACÃO",
+      "fontFamily": "Inter",
+      "fontSize": 24,
+      "fontWeight": "bold"
+    },
+    {
+      "type": "text",
+      "id": "CXGGR",
+      "x": 166,
+      "y": 325,
+      "name": "labelPassagem",
+      "fill": "#333333",
+      "content": "PASSAGEM",
+      "fontFamily": "Inter",
+      "fontSize": 16,
+      "fontWeight": "bold"
+    },
+    {
+      "type": "frame",
+      "id": "Rnnr5",
+      "x": 307,
+      "y": 268,
+      "name": "Telão",
+      "width": 186,
+      "height": 20,
+      "fill": "#1a1a1a",
+      "cornerRadius": 2
+    },
+    {
+      "type": "frame",
+      "id": "tNndD",
+      "x": 355,
+      "y": 159,
+      "name": "Mesa 5",
+      "width": 45,
+      "height": 42,
+      "fill": "#8B4513",
+      "cornerRadius": 4
+    },
+    {
+      "type": "frame",
+      "id": "HKq5y",
+      "x": 431,
+      "y": 159,
+      "name": "Mesa 6",
+      "width": 40,
+      "height": 42,
+      "fill": "#8B4513",
+      "cornerRadius": 4
+    }
+  ]
+}

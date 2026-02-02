@@ -1,0 +1,2071 @@
+{
+  "version": "2.6",
+  "children": [
+    {
+      "type": "frame",
+      "id": "bi8Au",
+      "x": 0,
+      "y": 0,
+      "name": "Projeto Bar Samuka",
+      "clip": true,
+      "width": 2000,
+      "height": 900,
+      "fill": "#f8f9fa",
+      "gap": 40,
+      "padding": 30,
+      "children": [
+        {
+          "type": "frame",
+          "id": "t7JOw",
+          "name": "Planta Baixa",
+          "width": 500,
+          "height": 800,
+          "fill": "#ffffff",
+          "cornerRadius": 8,
+          "stroke": {
+            "thickness": 1,
+            "fill": "#e0e0e0"
+          },
+          "layout": "none",
+          "children": [
+            {
+              "type": "text",
+              "id": "P4f5V",
+              "x": 180,
+              "y": 15,
+              "name": "titlePlanta",
+              "fill": "#1a1a1a",
+              "content": "PLANTA BAIXA",
+              "fontFamily": "Inter",
+              "fontSize": 18,
+              "fontWeight": "bold"
+            },
+            {
+              "type": "frame",
+              "id": "Mtkyn",
+              "x": 40,
+              "y": 60,
+              "name": "Barracão",
+              "width": 420,
+              "height": 280,
+              "fill": "#e8e8e8",
+              "cornerRadius": 4,
+              "layout": "none"
+            },
+            {
+              "type": "text",
+              "id": "vAApP",
+              "x": 200,
+              "y": 75,
+              "name": "labelBarr",
+              "fill": "#333",
+              "content": "BARRACÃO",
+              "fontFamily": "Inter",
+              "fontSize": 14,
+              "fontWeight": "bold"
+            },
+            {
+              "type": "text",
+              "id": "yOa7u",
+              "x": 190,
+              "y": 95,
+              "name": "labelBarr2",
+              "fill": "#666",
+              "content": "(Sala de TV / Copa)",
+              "fontFamily": "Inter",
+              "fontSize": 10,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "frame",
+              "id": "Rpkwg",
+              "x": 40,
+              "y": 350,
+              "name": "Passagem",
+              "width": 160,
+              "height": 50,
+              "fill": "#e8e8e8",
+              "cornerRadius": 4,
+              "layout": "none"
+            },
+            {
+              "type": "text",
+              "id": "XpXLG",
+              "x": 65,
+              "y": 370,
+              "name": "labelPass",
+              "fill": "#333",
+              "content": "PASSAGEM",
+              "fontFamily": "Inter",
+              "fontSize": 10,
+              "fontWeight": "bold"
+            },
+            {
+              "type": "frame",
+              "id": "Bd3KE",
+              "x": 40,
+              "y": 480,
+              "name": "Frente",
+              "width": 420,
+              "height": 120,
+              "fill": "#e8e8e8",
+              "cornerRadius": 4,
+              "layout": "none"
+            },
+            {
+              "type": "text",
+              "id": "CJk36",
+              "x": 200,
+              "y": 530,
+              "name": "labelFrente",
+              "fill": "#333",
+              "content": "FRENTE",
+              "fontFamily": "Inter",
+              "fontSize": 14,
+              "fontWeight": "bold"
+            },
+            {
+              "type": "frame",
+              "id": "r35AC",
+              "x": 280,
+              "y": 400,
+              "name": "Banheiros",
+              "width": 180,
+              "height": 70,
+              "fill": "#d0d0d0",
+              "cornerRadius": 4,
+              "layout": "none"
+            },
+            {
+              "type": "text",
+              "id": "RAzIb",
+              "x": 330,
+              "y": 430,
+              "name": "labelBanh",
+              "fill": "#333",
+              "content": "BANHEIROS",
+              "fontFamily": "Inter",
+              "fontSize": 10,
+              "fontWeight": "bold"
+            },
+            {
+              "type": "frame",
+              "id": "tHcHO",
+              "x": 210,
+              "y": 600,
+              "name": "Entrada",
+              "width": 80,
+              "height": 20,
+              "fill": "#2ca730",
+              "cornerRadius": 2,
+              "layout": "none"
+            },
+            {
+              "type": "text",
+              "id": "cundR",
+              "x": 225,
+              "y": 605,
+              "name": "labelEnt",
+              "fill": "#fff",
+              "content": "ENTRADA",
+              "fontFamily": "Inter",
+              "fontSize": 8,
+              "fontWeight": "bold"
+            },
+            {
+              "type": "frame",
+              "id": "Wia1q",
+              "x": 150,
+              "y": 330,
+              "name": "Telão",
+              "width": 200,
+              "height": 15,
+              "fill": "#1a1a1a",
+              "cornerRadius": 2
+            },
+            {
+              "type": "frame",
+              "id": "I89CX",
+              "x": 235,
+              "y": 150,
+              "name": "Projetor",
+              "width": 30,
+              "height": 25,
+              "fill": "#ff6600",
+              "cornerRadius": 4
+            },
+            {
+              "type": "frame",
+              "id": "me7WL",
+              "x": 55,
+              "y": 75,
+              "name": "AUX Fundo L",
+              "width": 18,
+              "height": 22,
+              "fill": "#5c32d3"
+            },
+            {
+              "type": "frame",
+              "id": "4DoW4",
+              "x": 427,
+              "y": 75,
+              "name": "AUX Fundo R",
+              "width": 18,
+              "height": 22,
+              "fill": "#5c32d3"
+            },
+            {
+              "type": "frame",
+              "id": "M079X",
+              "x": 55,
+              "y": 565,
+              "name": "AUX Frente L",
+              "width": 18,
+              "height": 22,
+              "fill": "#5c32d3"
+            },
+            {
+              "type": "frame",
+              "id": "ncNcD",
+              "x": 427,
+              "y": 565,
+              "name": "AUX Frente R",
+              "width": 18,
+              "height": 22,
+              "fill": "#5c32d3"
+            },
+            {
+              "type": "frame",
+              "id": "6bUzF",
+              "x": 55,
+              "y": 300,
+              "name": "SUB 1",
+              "width": 22,
+              "height": 22,
+              "fill": "#9610a0",
+              "cornerRadius": 2
+            },
+            {
+              "type": "frame",
+              "id": "pcji7",
+              "x": 55,
+              "y": 540,
+              "name": "SUB 2",
+              "width": 22,
+              "height": 22,
+              "fill": "#9610a0",
+              "cornerRadius": 2
+            },
+            {
+              "type": "frame",
+              "id": "MkHob",
+              "x": 232,
+              "y": 570,
+              "name": "Central",
+              "width": 35,
+              "height": 25,
+              "fill": "#28cccc",
+              "cornerRadius": 2
+            },
+            {
+              "type": "frame",
+              "id": "VeWFN",
+              "x": 100,
+              "y": 530,
+              "name": "Home Theater",
+              "width": 60,
+              "height": 30,
+              "fill": "#333",
+              "cornerRadius": 4
+            },
+            {
+              "type": "text",
+              "id": "x5MIU",
+              "x": 120,
+              "y": 540,
+              "name": "labelHT",
+              "fill": "#fff",
+              "content": "HT",
+              "fontFamily": "Inter",
+              "fontSize": 10,
+              "fontWeight": "bold"
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "id": "VuHqB",
+          "name": "Diagrama de Conexões",
+          "width": 500,
+          "height": 800,
+          "fill": "#ffffff",
+          "cornerRadius": 8,
+          "stroke": {
+            "thickness": 1,
+            "fill": "#e0e0e0"
+          },
+          "layout": "vertical",
+          "gap": 20,
+          "padding": 20,
+          "children": [
+            {
+              "type": "text",
+              "id": "jlWVX",
+              "name": "titleDiag",
+              "fill": "#1a1a1a",
+              "content": "DIAGRAMA DE CONEXÕES",
+              "fontFamily": "Inter",
+              "fontSize": 16,
+              "fontWeight": "bold"
+            },
+            {
+              "type": "text",
+              "id": "uai7X",
+              "name": "subtitleDiag",
+              "fill": "#666",
+              "content": "Sistema de Som - Controle na Frente",
+              "fontFamily": "Inter",
+              "fontSize": 12,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "frame",
+              "id": "WrIQ3",
+              "name": "divider1",
+              "width": "fill_container",
+              "height": 1,
+              "fill": "#e0e0e0"
+            },
+            {
+              "type": "frame",
+              "id": "ZLy8L",
+              "name": "Samsung HT-Z220T",
+              "width": "fill_container",
+              "height": 80,
+              "fill": "#f5f5f5",
+              "cornerRadius": 8,
+              "stroke": {
+                "thickness": 2,
+                "fill": "#333"
+              },
+              "layout": "vertical",
+              "gap": 4,
+              "padding": 12,
+              "children": [
+                {
+                  "type": "text",
+                  "id": "lrngB",
+                  "name": "samsungTitle",
+                  "fill": "#333",
+                  "content": "Samsung HT-Z220T",
+                  "fontFamily": "Inter",
+                  "fontSize": 14,
+                  "fontWeight": "bold"
+                },
+                {
+                  "type": "text",
+                  "id": "xZRJr",
+                  "name": "samsungDesc",
+                  "fill": "#666",
+                  "content": "Home Cinema System 5.1",
+                  "fontFamily": "Inter",
+                  "fontSize": 10,
+                  "fontWeight": "normal"
+                },
+                {
+                  "type": "text",
+                  "id": "q3U5q",
+                  "name": "samsungPorts",
+                  "fill": "#999",
+                  "content": "Saídas: VIDEO OUT, COMPONENT, AUX IN",
+                  "fontFamily": "Inter",
+                  "fontSize": 9,
+                  "fontWeight": "normal"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "id": "BElT2",
+              "name": "arrow1",
+              "fill": "#666",
+              "content": "↓ HDMI/RCA",
+              "fontFamily": "Inter",
+              "fontSize": 10,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "frame",
+              "id": "JrkdI",
+              "name": "Goldship Sub",
+              "width": "fill_container",
+              "height": 100,
+              "fill": "#f5f5f5",
+              "cornerRadius": 8,
+              "stroke": {
+                "thickness": 2,
+                "fill": "#9610a0"
+              },
+              "layout": "vertical",
+              "gap": 4,
+              "padding": 12,
+              "children": [
+                {
+                  "type": "text",
+                  "id": "UeTgm",
+                  "name": "goldshipTitle",
+                  "fill": "#333",
+                  "content": "Goldship Subwoofer Ativo",
+                  "fontFamily": "Inter",
+                  "fontSize": 14,
+                  "fontWeight": "bold"
+                },
+                {
+                  "type": "text",
+                  "id": "iHNqQ",
+                  "name": "goldshipDesc",
+                  "fill": "#666",
+                  "content": "Controle de Zonas: Front, Woofer, Center, Rear",
+                  "fontFamily": "Inter",
+                  "fontSize": 10,
+                  "fontWeight": "normal"
+                },
+                {
+                  "type": "text",
+                  "id": "y4MQf",
+                  "name": "goldshipPorts",
+                  "fill": "#999",
+                  "content": "Entradas 5.1: FR, FL, RR, RL, SUB, CNT",
+                  "fontFamily": "Inter",
+                  "fontSize": 9,
+                  "fontWeight": "normal"
+                },
+                {
+                  "type": "text",
+                  "id": "SkMgo",
+                  "name": "goldshipOut",
+                  "fill": "#999",
+                  "content": "Saídas: OUTPUT FR, FL, CNT, RR, RL",
+                  "fontFamily": "Inter",
+                  "fontSize": 9,
+                  "fontWeight": "normal"
+                }
+              ]
+            },
+            {
+              "type": "frame",
+              "id": "LAPUW",
+              "name": "divider2",
+              "width": "fill_container",
+              "height": 1,
+              "fill": "#e0e0e0"
+            },
+            {
+              "type": "text",
+              "id": "sA3xy",
+              "name": "outputTitle",
+              "fill": "#333",
+              "content": "DISTRIBUIÇÃO DE SAÍDAS",
+              "fontFamily": "Inter",
+              "fontSize": 12,
+              "fontWeight": "bold"
+            },
+            {
+              "type": "frame",
+              "id": "WL8SZ",
+              "name": "outputGrid",
+              "width": "fill_container",
+              "layout": "vertical",
+              "gap": 8,
+              "children": [
+                {
+                  "type": "frame",
+                  "id": "9l8Qq",
+                  "name": "outRow1",
+                  "width": "fill_container",
+                  "height": 40,
+                  "gap": 8,
+                  "children": [
+                    {
+                      "type": "frame",
+                      "id": "qhVBc",
+                      "name": "outFR",
+                      "width": "fill_container",
+                      "height": "fill_container",
+                      "fill": "#5c32d3",
+                      "cornerRadius": 4,
+                      "layout": "vertical",
+                      "padding": 6,
+                      "justifyContent": "center",
+                      "alignItems": "center",
+                      "children": [
+                        {
+                          "type": "text",
+                          "id": "RYvSp",
+                          "name": "outFRText",
+                          "fill": "#fff",
+                          "content": "FR → AUX Fundo R",
+                          "fontFamily": "Inter",
+                          "fontSize": 9,
+                          "fontWeight": "bold"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "frame",
+                      "id": "3tBIt",
+                      "name": "outFL",
+                      "width": "fill_container",
+                      "height": "fill_container",
+                      "fill": "#5c32d3",
+                      "cornerRadius": 4,
+                      "layout": "vertical",
+                      "padding": 6,
+                      "justifyContent": "center",
+                      "alignItems": "center",
+                      "children": [
+                        {
+                          "type": "text",
+                          "id": "Rli5R",
+                          "name": "outFLText",
+                          "fill": "#fff",
+                          "content": "FL → AUX Fundo L",
+                          "fontFamily": "Inter",
+                          "fontSize": 9,
+                          "fontWeight": "bold"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "frame",
+                  "id": "0sRsR",
+                  "name": "outRow2",
+                  "width": "fill_container",
+                  "height": 40,
+                  "gap": 8,
+                  "children": [
+                    {
+                      "type": "frame",
+                      "id": "i5gfo",
+                      "name": "outRR",
+                      "width": "fill_container",
+                      "height": "fill_container",
+                      "fill": "#5c32d3",
+                      "cornerRadius": 4,
+                      "layout": "vertical",
+                      "padding": 6,
+                      "justifyContent": "center",
+                      "alignItems": "center",
+                      "children": [
+                        {
+                          "type": "text",
+                          "id": "BCwJG",
+                          "name": "outRRText",
+                          "fill": "#fff",
+                          "content": "RR → AUX Frente R",
+                          "fontFamily": "Inter",
+                          "fontSize": 9,
+                          "fontWeight": "bold"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "frame",
+                      "id": "kxZVR",
+                      "name": "outRL",
+                      "width": "fill_container",
+                      "height": "fill_container",
+                      "fill": "#5c32d3",
+                      "cornerRadius": 4,
+                      "layout": "vertical",
+                      "padding": 6,
+                      "justifyContent": "center",
+                      "alignItems": "center",
+                      "children": [
+                        {
+                          "type": "text",
+                          "id": "A55Ow",
+                          "name": "outRLText",
+                          "fill": "#fff",
+                          "content": "RL → AUX Frente L",
+                          "fontFamily": "Inter",
+                          "fontSize": 9,
+                          "fontWeight": "bold"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "frame",
+                  "id": "NdmYC",
+                  "name": "outRow3",
+                  "width": "fill_container",
+                  "height": 40,
+                  "gap": 8,
+                  "children": [
+                    {
+                      "type": "frame",
+                      "id": "Wi6jK",
+                      "name": "outCNT",
+                      "width": "fill_container",
+                      "height": "fill_container",
+                      "fill": "#28cccc",
+                      "cornerRadius": 4,
+                      "layout": "vertical",
+                      "padding": 6,
+                      "justifyContent": "center",
+                      "alignItems": "center",
+                      "children": [
+                        {
+                          "type": "text",
+                          "id": "1X2nI",
+                          "name": "outCNTText",
+                          "fill": "#fff",
+                          "content": "CNT → Central",
+                          "fontFamily": "Inter",
+                          "fontSize": 9,
+                          "fontWeight": "bold"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "frame",
+                      "id": "Isn8s",
+                      "name": "outSUB",
+                      "width": "fill_container",
+                      "height": "fill_container",
+                      "fill": "#9610a0",
+                      "cornerRadius": 4,
+                      "layout": "vertical",
+                      "padding": 6,
+                      "justifyContent": "center",
+                      "alignItems": "center",
+                      "children": [
+                        {
+                          "type": "text",
+                          "id": "rwQAP",
+                          "name": "outSUBText",
+                          "fill": "#fff",
+                          "content": "SUB → Subwoofers",
+                          "fontFamily": "Inter",
+                          "fontSize": 9,
+                          "fontWeight": "bold"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "frame",
+              "id": "UbcN3",
+              "name": "divider3",
+              "width": "fill_container",
+              "height": 1,
+              "fill": "#e0e0e0"
+            },
+            {
+              "type": "text",
+              "id": "ZK7me",
+              "name": "notesTitle",
+              "fill": "#333",
+              "content": "NOTAS IMPORTANTES",
+              "fontFamily": "Inter",
+              "fontSize": 12,
+              "fontWeight": "bold"
+            },
+            {
+              "type": "text",
+              "id": "TI146",
+              "name": "note1",
+              "fill": "#666",
+              "textGrowth": "fixed-width",
+              "width": 440,
+              "content": "• Controle de volume na frente",
+              "fontFamily": "Inter",
+              "fontSize": 10,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "zLspK",
+              "name": "note2",
+              "fill": "#666",
+              "textGrowth": "fixed-width",
+              "width": 440,
+              "content": "• Goldship controla Front/Rear separado",
+              "fontFamily": "Inter",
+              "fontSize": 10,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "vQHk7",
+              "name": "note3",
+              "fill": "#666",
+              "textGrowth": "fixed-width",
+              "width": 440,
+              "content": "• Projetor → Telão na parede do barracão",
+              "fontFamily": "Inter",
+              "fontSize": 10,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "j0KE0",
+              "name": "note4",
+              "fill": "#666",
+              "textGrowth": "fixed-width",
+              "width": 440,
+              "content": "• Input Selector: 5.1 CH / TV / AUX",
+              "fontFamily": "Inter",
+              "fontSize": 10,
+              "fontWeight": "normal"
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "id": "u6NSj",
+          "name": "Legenda",
+          "width": 280,
+          "height": 800,
+          "fill": "#ffffff",
+          "cornerRadius": 8,
+          "stroke": {
+            "thickness": 1,
+            "fill": "#e0e0e0"
+          },
+          "layout": "vertical",
+          "gap": 16,
+          "padding": 20,
+          "children": [
+            {
+              "type": "text",
+              "id": "ZjTZP",
+              "name": "titleLeg",
+              "fill": "#1a1a1a",
+              "content": "LEGENDA",
+              "fontFamily": "Inter",
+              "fontSize": 16,
+              "fontWeight": "bold"
+            },
+            {
+              "type": "frame",
+              "id": "dub0k",
+              "name": "legItem1",
+              "width": "fill_container",
+              "height": 30,
+              "gap": 10,
+              "alignItems": "center",
+              "children": [
+                {
+                  "type": "frame",
+                  "id": "Xyjuk",
+                  "name": "legColor1",
+                  "width": 20,
+                  "height": 20,
+                  "fill": "#5c32d3"
+                },
+                {
+                  "type": "text",
+                  "id": "98t22",
+                  "name": "legText1",
+                  "fill": "#333",
+                  "content": "Caixas Auxiliares",
+                  "fontFamily": "Inter",
+                  "fontSize": 12,
+                  "fontWeight": "normal"
+                }
+              ]
+            },
+            {
+              "type": "frame",
+              "id": "8SRQP",
+              "name": "legItem2",
+              "width": "fill_container",
+              "height": 30,
+              "gap": 10,
+              "alignItems": "center",
+              "children": [
+                {
+                  "type": "frame",
+                  "id": "83olF",
+                  "name": "legColor2",
+                  "width": 20,
+                  "height": 20,
+                  "fill": "#9610a0",
+                  "cornerRadius": 2
+                },
+                {
+                  "type": "text",
+                  "id": "Vk2nu",
+                  "name": "legText2",
+                  "fill": "#333",
+                  "content": "Subwoofers",
+                  "fontFamily": "Inter",
+                  "fontSize": 12,
+                  "fontWeight": "normal"
+                }
+              ]
+            },
+            {
+              "type": "frame",
+              "id": "82QVS",
+              "name": "legItem3",
+              "width": "fill_container",
+              "height": 30,
+              "gap": 10,
+              "alignItems": "center",
+              "children": [
+                {
+                  "type": "frame",
+                  "id": "O3WjM",
+                  "name": "legColor3",
+                  "width": 20,
+                  "height": 20,
+                  "fill": "#28cccc",
+                  "cornerRadius": 2
+                },
+                {
+                  "type": "text",
+                  "id": "PqpqN",
+                  "name": "legText3",
+                  "fill": "#333",
+                  "content": "Central",
+                  "fontFamily": "Inter",
+                  "fontSize": 12,
+                  "fontWeight": "normal"
+                }
+              ]
+            },
+            {
+              "type": "frame",
+              "id": "zK2O6",
+              "name": "legItem4",
+              "width": "fill_container",
+              "height": 30,
+              "gap": 10,
+              "alignItems": "center",
+              "children": [
+                {
+                  "type": "frame",
+                  "id": "fD4TW",
+                  "name": "legColor4",
+                  "width": 20,
+                  "height": 20,
+                  "fill": "#ff6600",
+                  "cornerRadius": 4
+                },
+                {
+                  "type": "text",
+                  "id": "UNTWe",
+                  "name": "legText4",
+                  "fill": "#333",
+                  "content": "Projetor",
+                  "fontFamily": "Inter",
+                  "fontSize": 12,
+                  "fontWeight": "normal"
+                }
+              ]
+            },
+            {
+              "type": "frame",
+              "id": "QIvjM",
+              "name": "legItem5",
+              "width": "fill_container",
+              "height": 30,
+              "gap": 10,
+              "alignItems": "center",
+              "children": [
+                {
+                  "type": "frame",
+                  "id": "kjkoK",
+                  "name": "legColor5",
+                  "width": 20,
+                  "height": 20,
+                  "fill": "#1a1a1a",
+                  "cornerRadius": 2
+                },
+                {
+                  "type": "text",
+                  "id": "xHtmD",
+                  "name": "legText5",
+                  "fill": "#333",
+                  "content": "Telão/Tela",
+                  "fontFamily": "Inter",
+                  "fontSize": 12,
+                  "fontWeight": "normal"
+                }
+              ]
+            },
+            {
+              "type": "frame",
+              "id": "FBAJi",
+              "name": "legItem6",
+              "width": "fill_container",
+              "height": 30,
+              "gap": 10,
+              "alignItems": "center",
+              "children": [
+                {
+                  "type": "frame",
+                  "id": "ntgHY",
+                  "name": "legColor6",
+                  "width": 20,
+                  "height": 20,
+                  "fill": "#333",
+                  "cornerRadius": 4
+                },
+                {
+                  "type": "text",
+                  "id": "KyngB",
+                  "name": "legText6",
+                  "fill": "#333",
+                  "content": "Home Theater Samsung",
+                  "fontFamily": "Inter",
+                  "fontSize": 12,
+                  "fontWeight": "normal"
+                }
+              ]
+            },
+            {
+              "type": "frame",
+              "id": "t5dAs",
+              "name": "legItem7",
+              "width": "fill_container",
+              "height": 30,
+              "gap": 10,
+              "alignItems": "center",
+              "children": [
+                {
+                  "type": "frame",
+                  "id": "Kertf",
+                  "name": "legColor7",
+                  "width": 20,
+                  "height": 20,
+                  "fill": "#2ca730",
+                  "cornerRadius": 2
+                },
+                {
+                  "type": "text",
+                  "id": "X3J0O",
+                  "name": "legText7",
+                  "fill": "#333",
+                  "content": "Portas/Entradas",
+                  "fontFamily": "Inter",
+                  "fontSize": 12,
+                  "fontWeight": "normal"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "id": "o4xII",
+              "name": "equipTitle",
+              "fill": "#1a1a1a",
+              "content": "EQUIPAMENTOS",
+              "fontFamily": "Inter",
+              "fontSize": 14,
+              "fontWeight": "bold"
+            },
+            {
+              "type": "text",
+              "id": "kV5zx",
+              "name": "equip1",
+              "fill": "#333",
+              "content": "• Samsung HT-Z220T",
+              "fontFamily": "Inter",
+              "fontSize": 11,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "3FVxW",
+              "name": "equip2",
+              "fill": "#333",
+              "content": "• Goldship Sub 5.1",
+              "fontFamily": "Inter",
+              "fontSize": 11,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "cDKHB",
+              "name": "equip3",
+              "fill": "#333",
+              "content": "• 4x Caixas Auxiliares",
+              "fontFamily": "Inter",
+              "fontSize": 11,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "04PwX",
+              "name": "equip4",
+              "fill": "#333",
+              "content": "• 2x Subwoofers",
+              "fontFamily": "Inter",
+              "fontSize": 11,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "qc9TX",
+              "name": "equip5",
+              "fill": "#333",
+              "content": "• 1x Central",
+              "fontFamily": "Inter",
+              "fontSize": 11,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "ZVa5g",
+              "name": "equip6",
+              "fill": "#333",
+              "content": "• 1x Projetor",
+              "fontFamily": "Inter",
+              "fontSize": 11,
+              "fontWeight": "normal"
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "id": "9mFDq",
+          "name": "Diagrama Elétrico",
+          "width": 550,
+          "height": 800,
+          "fill": "#ffffff",
+          "cornerRadius": 8,
+          "stroke": {
+            "thickness": 1,
+            "fill": "#e0e0e0"
+          },
+          "layout": "none",
+          "children": [
+            {
+              "type": "text",
+              "id": "hnzfz",
+              "x": 120,
+              "y": 15,
+              "name": "titleElet",
+              "fill": "#1a1a1a",
+              "content": "DIAGRAMA ELÉTRICO - SISTEMA DE SOM",
+              "fontFamily": "Inter",
+              "fontSize": 14,
+              "fontWeight": "bold"
+            },
+            {
+              "type": "text",
+              "id": "QIVA4",
+              "x": 175,
+              "y": 35,
+              "name": "subtitleElet",
+              "fill": "#666",
+              "content": "Bar Samuka - Conexões Detalhadas",
+              "fontFamily": "Inter",
+              "fontSize": 10,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "frame",
+              "id": "Xl3YX",
+              "x": 175,
+              "y": 60,
+              "name": "Samsung",
+              "width": 200,
+              "height": 120,
+              "fill": "#f0f0f0",
+              "cornerRadius": 4,
+              "stroke": {
+                "thickness": 2,
+                "fill": "#333"
+              },
+              "layout": "none"
+            },
+            {
+              "type": "text",
+              "id": "YWSQ3",
+              "x": 210,
+              "y": 70,
+              "name": "samsungLabel",
+              "fill": "#333",
+              "content": "SAMSUNG HT-Z220T",
+              "fontFamily": "Inter",
+              "fontSize": 10,
+              "fontWeight": "bold"
+            },
+            {
+              "type": "text",
+              "id": "ad79d",
+              "x": 215,
+              "y": 85,
+              "name": "samsungType",
+              "fill": "#666",
+              "content": "Home Cinema 5.1 - 70W",
+              "fontFamily": "Inter",
+              "fontSize": 8,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "frame",
+              "id": "JkTOn",
+              "x": 185,
+              "y": 110,
+              "name": "videoOut",
+              "width": 40,
+              "height": 15,
+              "fill": "#ffcc00",
+              "cornerRadius": 2
+            },
+            {
+              "type": "text",
+              "id": "TaWl8",
+              "x": 190,
+              "y": 113,
+              "name": "videoLabel",
+              "fill": "#333",
+              "content": "VIDEO",
+              "fontFamily": "Inter",
+              "fontSize": 6,
+              "fontWeight": "bold"
+            },
+            {
+              "type": "frame",
+              "id": "CMkMp",
+              "x": 235,
+              "y": 110,
+              "name": "compOut",
+              "width": 60,
+              "height": 15,
+              "fill": "#00cc00",
+              "cornerRadius": 2
+            },
+            {
+              "type": "text",
+              "id": "ELnxi",
+              "x": 240,
+              "y": 113,
+              "name": "compLabel",
+              "fill": "#fff",
+              "content": "COMPONENT",
+              "fontFamily": "Inter",
+              "fontSize": 5,
+              "fontWeight": "bold"
+            },
+            {
+              "type": "frame",
+              "id": "hUiWx",
+              "x": 305,
+              "y": 110,
+              "name": "auxIn",
+              "width": 40,
+              "height": 15,
+              "fill": "#cc0000",
+              "cornerRadius": 2
+            },
+            {
+              "type": "text",
+              "id": "xiiL8",
+              "x": 310,
+              "y": 113,
+              "name": "auxLabel",
+              "fill": "#fff",
+              "content": "AUX IN",
+              "fontFamily": "Inter",
+              "fontSize": 6,
+              "fontWeight": "bold"
+            },
+            {
+              "type": "frame",
+              "id": "kH7k5",
+              "x": 185,
+              "y": 140,
+              "name": "audioOut",
+              "width": 180,
+              "height": 20,
+              "fill": "#333",
+              "cornerRadius": 2
+            },
+            {
+              "type": "text",
+              "id": "JD3KV",
+              "x": 215,
+              "y": 145,
+              "name": "audioLabel",
+              "fill": "#fff",
+              "content": "AUDIO OUT → RCA L/R",
+              "fontFamily": "Inter",
+              "fontSize": 8,
+              "fontWeight": "bold"
+            },
+            {
+              "type": "frame",
+              "id": "TlWXG",
+              "x": 274,
+              "y": 165,
+              "name": "linha1",
+              "width": 3,
+              "height": 40,
+              "fill": "#cc0000"
+            },
+            {
+              "type": "text",
+              "id": "DZGaw",
+              "x": 280,
+              "y": 180,
+              "name": "linhaLabel",
+              "fill": "#cc0000",
+              "content": "RCA",
+              "fontFamily": "Inter",
+              "fontSize": 7,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "frame",
+              "id": "8vz14",
+              "x": 135,
+              "y": 210,
+              "name": "Goldship",
+              "width": 280,
+              "height": 180,
+              "fill": "#f0f0f0",
+              "cornerRadius": 4,
+              "stroke": {
+                "thickness": 2,
+                "fill": "#9610a0"
+              },
+              "layout": "none"
+            },
+            {
+              "type": "text",
+              "id": "fifl7",
+              "x": 185,
+              "y": 220,
+              "name": "goldLabel",
+              "fill": "#333",
+              "content": "GOLDSHIP SUBWOOFER ATIVO 5.1",
+              "fontFamily": "Inter",
+              "fontSize": 10,
+              "fontWeight": "bold"
+            },
+            {
+              "type": "text",
+              "id": "dRRUu",
+              "x": 195,
+              "y": 235,
+              "name": "goldType",
+              "fill": "#666",
+              "content": "Amplificador com Controle de Zonas",
+              "fontFamily": "Inter",
+              "fontSize": 8,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "Ye6GA",
+              "x": 215,
+              "y": 255,
+              "name": "inputLabel",
+              "fill": "#333",
+              "content": "── ENTRADAS 5.1 ──",
+              "fontFamily": "Inter",
+              "fontSize": 8,
+              "fontWeight": "bold"
+            },
+            {
+              "type": "frame",
+              "id": "1dGRd",
+              "x": 145,
+              "y": 270,
+              "name": "inFR",
+              "width": 35,
+              "height": 18,
+              "fill": "#cc0000",
+              "cornerRadius": 2
+            },
+            {
+              "type": "text",
+              "id": "E9sZX",
+              "x": 155,
+              "y": 274,
+              "name": "inFRLabel",
+              "fill": "#fff",
+              "content": "FR",
+              "fontFamily": "Inter",
+              "fontSize": 7,
+              "fontWeight": "bold"
+            },
+            {
+              "type": "frame",
+              "id": "Zoixw",
+              "x": 185,
+              "y": 270,
+              "name": "inFL",
+              "width": 35,
+              "height": 18,
+              "fill": "#cc0000",
+              "cornerRadius": 2
+            },
+            {
+              "type": "text",
+              "id": "gABJF",
+              "x": 196,
+              "y": 274,
+              "name": "inFLLabel",
+              "fill": "#fff",
+              "content": "FL",
+              "fontFamily": "Inter",
+              "fontSize": 7,
+              "fontWeight": "bold"
+            },
+            {
+              "type": "frame",
+              "id": "Ctq5e",
+              "x": 225,
+              "y": 270,
+              "name": "inRR",
+              "width": 35,
+              "height": 18,
+              "fill": "#cc0000",
+              "cornerRadius": 2
+            },
+            {
+              "type": "text",
+              "id": "rs8wR",
+              "x": 235,
+              "y": 274,
+              "name": "inRRLabel",
+              "fill": "#fff",
+              "content": "RR",
+              "fontFamily": "Inter",
+              "fontSize": 7,
+              "fontWeight": "bold"
+            },
+            {
+              "type": "frame",
+              "id": "I98da",
+              "x": 265,
+              "y": 270,
+              "name": "inRL",
+              "width": 35,
+              "height": 18,
+              "fill": "#cc0000",
+              "cornerRadius": 2
+            },
+            {
+              "type": "text",
+              "id": "xt3CJ",
+              "x": 276,
+              "y": 274,
+              "name": "inRLLabel",
+              "fill": "#fff",
+              "content": "RL",
+              "fontFamily": "Inter",
+              "fontSize": 7,
+              "fontWeight": "bold"
+            },
+            {
+              "type": "frame",
+              "id": "ITQzB",
+              "x": 305,
+              "y": 270,
+              "name": "inSUB",
+              "width": 35,
+              "height": 18,
+              "fill": "#9610a0",
+              "cornerRadius": 2
+            },
+            {
+              "type": "text",
+              "id": "RJUhN",
+              "x": 312,
+              "y": 274,
+              "name": "inSUBLabel",
+              "fill": "#fff",
+              "content": "SUB",
+              "fontFamily": "Inter",
+              "fontSize": 7,
+              "fontWeight": "bold"
+            },
+            {
+              "type": "frame",
+              "id": "L4azH",
+              "x": 345,
+              "y": 270,
+              "name": "inCNT",
+              "width": 35,
+              "height": 18,
+              "fill": "#28cccc",
+              "cornerRadius": 2
+            },
+            {
+              "type": "text",
+              "id": "a125z",
+              "x": 352,
+              "y": 274,
+              "name": "inCNTLabel",
+              "fill": "#fff",
+              "content": "CNT",
+              "fontFamily": "Inter",
+              "fontSize": 7,
+              "fontWeight": "bold"
+            },
+            {
+              "type": "text",
+              "id": "5TKhs",
+              "x": 225,
+              "y": 295,
+              "name": "ctrlLabel",
+              "fill": "#333",
+              "content": "── CONTROLES ──",
+              "fontFamily": "Inter",
+              "fontSize": 8,
+              "fontWeight": "bold"
+            },
+            {
+              "type": "frame",
+              "id": "fuLRi",
+              "x": 155,
+              "y": 310,
+              "name": "ctrlFront",
+              "width": 50,
+              "height": 18,
+              "fill": "#666",
+              "cornerRadius": 2
+            },
+            {
+              "type": "text",
+              "id": "ZvYpp",
+              "x": 163,
+              "y": 314,
+              "name": "ctrlFrontL",
+              "fill": "#fff",
+              "content": "FRONT",
+              "fontFamily": "Inter",
+              "fontSize": 6,
+              "fontWeight": "bold"
+            },
+            {
+              "type": "frame",
+              "id": "u8lzn",
+              "x": 210,
+              "y": 310,
+              "name": "ctrlWoof",
+              "width": 55,
+              "height": 18,
+              "fill": "#666",
+              "cornerRadius": 2
+            },
+            {
+              "type": "text",
+              "id": "CIYEU",
+              "x": 217,
+              "y": 314,
+              "name": "ctrlWoofL",
+              "fill": "#fff",
+              "content": "WOOFER",
+              "fontFamily": "Inter",
+              "fontSize": 6,
+              "fontWeight": "bold"
+            },
+            {
+              "type": "frame",
+              "id": "EeuCE",
+              "x": 270,
+              "y": 310,
+              "name": "ctrlCenter",
+              "width": 50,
+              "height": 18,
+              "fill": "#666",
+              "cornerRadius": 2
+            },
+            {
+              "type": "text",
+              "id": "cOwTZ",
+              "x": 276,
+              "y": 314,
+              "name": "ctrlCenterL",
+              "fill": "#fff",
+              "content": "CENTER",
+              "fontFamily": "Inter",
+              "fontSize": 6,
+              "fontWeight": "bold"
+            },
+            {
+              "type": "frame",
+              "id": "QEA1T",
+              "x": 325,
+              "y": 310,
+              "name": "ctrlRear",
+              "width": 45,
+              "height": 18,
+              "fill": "#666",
+              "cornerRadius": 2
+            },
+            {
+              "type": "text",
+              "id": "nD2vV",
+              "x": 335,
+              "y": 314,
+              "name": "ctrlRearL",
+              "fill": "#fff",
+              "content": "REAR",
+              "fontFamily": "Inter",
+              "fontSize": 6,
+              "fontWeight": "bold"
+            },
+            {
+              "type": "text",
+              "id": "uRBwj",
+              "x": 210,
+              "y": 340,
+              "name": "outLabel",
+              "fill": "#333",
+              "content": "── SAÍDAS OUTPUT ──",
+              "fontFamily": "Inter",
+              "fontSize": 8,
+              "fontWeight": "bold"
+            },
+            {
+              "type": "frame",
+              "id": "NBtPr",
+              "x": 145,
+              "y": 355,
+              "name": "outFR",
+              "width": 35,
+              "height": 18,
+              "fill": "#5c32d3",
+              "cornerRadius": 2
+            },
+            {
+              "type": "text",
+              "id": "HzLcy",
+              "x": 155,
+              "y": 359,
+              "name": "outFRL",
+              "fill": "#fff",
+              "content": "FR",
+              "fontFamily": "Inter",
+              "fontSize": 7,
+              "fontWeight": "bold"
+            },
+            {
+              "type": "frame",
+              "id": "9NQRg",
+              "x": 185,
+              "y": 355,
+              "name": "outFL",
+              "width": 35,
+              "height": 18,
+              "fill": "#5c32d3",
+              "cornerRadius": 2
+            },
+            {
+              "type": "text",
+              "id": "02fEz",
+              "x": 196,
+              "y": 359,
+              "name": "outFLL",
+              "fill": "#fff",
+              "content": "FL",
+              "fontFamily": "Inter",
+              "fontSize": 7,
+              "fontWeight": "bold"
+            },
+            {
+              "type": "frame",
+              "id": "7gkFo",
+              "x": 225,
+              "y": 355,
+              "name": "outCNT",
+              "width": 35,
+              "height": 18,
+              "fill": "#28cccc",
+              "cornerRadius": 2
+            },
+            {
+              "type": "text",
+              "id": "nOjJh",
+              "x": 232,
+              "y": 359,
+              "name": "outCNTL",
+              "fill": "#fff",
+              "content": "CNT",
+              "fontFamily": "Inter",
+              "fontSize": 7,
+              "fontWeight": "bold"
+            },
+            {
+              "type": "frame",
+              "id": "hhT9N",
+              "x": 265,
+              "y": 355,
+              "name": "outRR",
+              "width": 35,
+              "height": 18,
+              "fill": "#5c32d3",
+              "cornerRadius": 2
+            },
+            {
+              "type": "text",
+              "id": "Ooy8n",
+              "x": 275,
+              "y": 359,
+              "name": "outRRL",
+              "fill": "#fff",
+              "content": "RR",
+              "fontFamily": "Inter",
+              "fontSize": 7,
+              "fontWeight": "bold"
+            },
+            {
+              "type": "frame",
+              "id": "5cQ2f",
+              "x": 305,
+              "y": 355,
+              "name": "outRL",
+              "width": 35,
+              "height": 18,
+              "fill": "#5c32d3",
+              "cornerRadius": 2
+            },
+            {
+              "type": "text",
+              "id": "R2xbn",
+              "x": 316,
+              "y": 359,
+              "name": "outRLL",
+              "fill": "#fff",
+              "content": "RL",
+              "fontFamily": "Inter",
+              "fontSize": 7,
+              "fontWeight": "bold"
+            },
+            {
+              "type": "text",
+              "id": "HsmcS",
+              "x": 185,
+              "y": 410,
+              "name": "destLabel",
+              "fill": "#333",
+              "content": "── DESTINO DAS SAÍDAS ──",
+              "fontFamily": "Inter",
+              "fontSize": 10,
+              "fontWeight": "bold"
+            },
+            {
+              "type": "frame",
+              "id": "a6Sgj",
+              "x": 30,
+              "y": 440,
+              "name": "fundoBox",
+              "width": 220,
+              "height": 80,
+              "fill": "#f8f8f8",
+              "cornerRadius": 4,
+              "stroke": {
+                "thickness": 2,
+                "fill": "#5c32d3"
+              },
+              "layout": "none"
+            },
+            {
+              "type": "text",
+              "id": "VlxOK",
+              "x": 80,
+              "y": 450,
+              "name": "fundoLabel",
+              "fill": "#333",
+              "content": "BARRACÃO (FUNDO)",
+              "fontFamily": "Inter",
+              "fontSize": 10,
+              "fontWeight": "bold"
+            },
+            {
+              "type": "frame",
+              "id": "3JnlM",
+              "x": 40,
+              "y": 470,
+              "name": "auxFundoL",
+              "width": 90,
+              "height": 35,
+              "fill": "#5c32d3",
+              "cornerRadius": 4,
+              "layout": "none"
+            },
+            {
+              "type": "text",
+              "id": "ZVv8g",
+              "x": 55,
+              "y": 482,
+              "name": "auxFundoLT",
+              "fill": "#fff",
+              "content": "AUX L (FL)",
+              "fontFamily": "Inter",
+              "fontSize": 8,
+              "fontWeight": "bold"
+            },
+            {
+              "type": "frame",
+              "id": "tclbs",
+              "x": 150,
+              "y": 470,
+              "name": "auxFundoR",
+              "width": 90,
+              "height": 35,
+              "fill": "#5c32d3",
+              "cornerRadius": 4,
+              "layout": "none"
+            },
+            {
+              "type": "text",
+              "id": "Ip2GP",
+              "x": 165,
+              "y": 482,
+              "name": "auxFundoRT",
+              "fill": "#fff",
+              "content": "AUX R (FR)",
+              "fontFamily": "Inter",
+              "fontSize": 8,
+              "fontWeight": "bold"
+            },
+            {
+              "type": "frame",
+              "id": "Pc6fd",
+              "x": 300,
+              "y": 440,
+              "name": "frenteBox",
+              "width": 220,
+              "height": 80,
+              "fill": "#f8f8f8",
+              "cornerRadius": 4,
+              "stroke": {
+                "thickness": 2,
+                "fill": "#5c32d3"
+              },
+              "layout": "none"
+            },
+            {
+              "type": "text",
+              "id": "l4C9P",
+              "x": 330,
+              "y": 450,
+              "name": "frenteLabel",
+              "fill": "#333",
+              "content": "FRENTE (ÁREA CLIENTES)",
+              "fontFamily": "Inter",
+              "fontSize": 10,
+              "fontWeight": "bold"
+            },
+            {
+              "type": "frame",
+              "id": "PJwCr",
+              "x": 310,
+              "y": 470,
+              "name": "auxFrenteL",
+              "width": 90,
+              "height": 35,
+              "fill": "#5c32d3",
+              "cornerRadius": 4,
+              "layout": "none"
+            },
+            {
+              "type": "text",
+              "id": "Bx8eQ",
+              "x": 325,
+              "y": 482,
+              "name": "auxFrenteLT",
+              "fill": "#fff",
+              "content": "AUX L (RL)",
+              "fontFamily": "Inter",
+              "fontSize": 8,
+              "fontWeight": "bold"
+            },
+            {
+              "type": "frame",
+              "id": "sYT11",
+              "x": 420,
+              "y": 470,
+              "name": "auxFrenteR",
+              "width": 90,
+              "height": 35,
+              "fill": "#5c32d3",
+              "cornerRadius": 4,
+              "layout": "none"
+            },
+            {
+              "type": "text",
+              "id": "SUEKL",
+              "x": 435,
+              "y": 482,
+              "name": "auxFrenteRT",
+              "fill": "#fff",
+              "content": "AUX R (RR)",
+              "fontFamily": "Inter",
+              "fontSize": 8,
+              "fontWeight": "bold"
+            },
+            {
+              "type": "frame",
+              "id": "cQc4j",
+              "x": 30,
+              "y": 540,
+              "name": "centralBox",
+              "width": 150,
+              "height": 50,
+              "fill": "#f8f8f8",
+              "cornerRadius": 4,
+              "stroke": {
+                "thickness": 2,
+                "fill": "#28cccc"
+              },
+              "layout": "none"
+            },
+            {
+              "type": "text",
+              "id": "ev1cX",
+              "x": 75,
+              "y": 550,
+              "name": "centralLabel",
+              "fill": "#333",
+              "content": "CENTRAL",
+              "fontFamily": "Inter",
+              "fontSize": 10,
+              "fontWeight": "bold"
+            },
+            {
+              "type": "frame",
+              "id": "7XrLN",
+              "x": 65,
+              "y": 565,
+              "name": "centralCaixa",
+              "width": 80,
+              "height": 25,
+              "fill": "#28cccc",
+              "cornerRadius": 4
+            },
+            {
+              "type": "frame",
+              "id": "C4ow7",
+              "x": 200,
+              "y": 540,
+              "name": "subBox",
+              "width": 150,
+              "height": 50,
+              "fill": "#f8f8f8",
+              "cornerRadius": 4,
+              "stroke": {
+                "thickness": 2,
+                "fill": "#9610a0"
+              },
+              "layout": "none"
+            },
+            {
+              "type": "text",
+              "id": "f3w2E",
+              "x": 230,
+              "y": 550,
+              "name": "subLabel",
+              "fill": "#333",
+              "content": "SUBWOOFERS",
+              "fontFamily": "Inter",
+              "fontSize": 10,
+              "fontWeight": "bold"
+            },
+            {
+              "type": "frame",
+              "id": "PtE3r",
+              "x": 210,
+              "y": 565,
+              "name": "subCaixa1",
+              "width": 50,
+              "height": 25,
+              "fill": "#9610a0",
+              "cornerRadius": 4
+            },
+            {
+              "type": "frame",
+              "id": "f78yS",
+              "x": 280,
+              "y": 565,
+              "name": "subCaixa2",
+              "width": 50,
+              "height": 25,
+              "fill": "#9610a0",
+              "cornerRadius": 4
+            },
+            {
+              "type": "text",
+              "id": "WH2fS",
+              "x": 185,
+              "y": 610,
+              "name": "videoLabel2",
+              "fill": "#333",
+              "content": "── SISTEMA DE VÍDEO ──",
+              "fontFamily": "Inter",
+              "fontSize": 10,
+              "fontWeight": "bold"
+            },
+            {
+              "type": "frame",
+              "id": "FQEMC",
+              "x": 100,
+              "y": 630,
+              "name": "projetorBox",
+              "width": 130,
+              "height": 50,
+              "fill": "#f8f8f8",
+              "cornerRadius": 4,
+              "stroke": {
+                "thickness": 2,
+                "fill": "#ff6600"
+              },
+              "layout": "none"
+            },
+            {
+              "type": "text",
+              "id": "uIppB",
+              "x": 135,
+              "y": 645,
+              "name": "projetorLabel",
+              "fill": "#333",
+              "content": "PROJETOR",
+              "fontFamily": "Inter",
+              "fontSize": 10,
+              "fontWeight": "bold"
+            },
+            {
+              "type": "frame",
+              "id": "U5qU0",
+              "x": 145,
+              "y": 655,
+              "name": "projetorIcon",
+              "width": 40,
+              "height": 25,
+              "fill": "#ff6600",
+              "cornerRadius": 4
+            },
+            {
+              "type": "frame",
+              "id": "cLxq6",
+              "x": 300,
+              "y": 630,
+              "name": "telaoBox",
+              "width": 130,
+              "height": 50,
+              "fill": "#f8f8f8",
+              "cornerRadius": 4,
+              "stroke": {
+                "thickness": 2,
+                "fill": "#1a1a1a"
+              },
+              "layout": "none"
+            },
+            {
+              "type": "text",
+              "id": "KBqoX",
+              "x": 345,
+              "y": 645,
+              "name": "telaoLabel",
+              "fill": "#333",
+              "content": "TELÃO",
+              "fontFamily": "Inter",
+              "fontSize": 10,
+              "fontWeight": "bold"
+            },
+            {
+              "type": "frame",
+              "id": "7y3WK",
+              "x": 325,
+              "y": 658,
+              "name": "telaoIcon",
+              "width": 80,
+              "height": 20,
+              "fill": "#1a1a1a",
+              "cornerRadius": 2
+            },
+            {
+              "type": "text",
+              "id": "zu483",
+              "x": 245,
+              "y": 648,
+              "name": "seta",
+              "fill": "#ff6600",
+              "content": "→",
+              "fontFamily": "Inter",
+              "fontSize": 16,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "omtWs",
+              "x": 200,
+              "y": 700,
+              "name": "notasTec",
+              "fill": "#333",
+              "content": "── NOTAS TÉCNICAS ──",
+              "fontFamily": "Inter",
+              "fontSize": 10,
+              "fontWeight": "bold"
+            },
+            {
+              "type": "text",
+              "id": "L6tYn",
+              "x": 50,
+              "y": 720,
+              "name": "nota1",
+              "fill": "#666",
+              "content": "• Cabos RCA para conexão Samsung → Goldship",
+              "fontFamily": "Inter",
+              "fontSize": 8,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "VPKYY",
+              "x": 50,
+              "y": 735,
+              "name": "nota2",
+              "fill": "#666",
+              "content": "• Cabos de caixa para saídas OUTPUT → Auxiliares",
+              "fontFamily": "Inter",
+              "fontSize": 8,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "bgQcg",
+              "x": 50,
+              "y": 750,
+              "name": "nota3",
+              "fill": "#666",
+              "content": "• HDMI ou VGA do Samsung → Projetor",
+              "fontFamily": "Inter",
+              "fontSize": 8,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "ugh07",
+              "x": 50,
+              "y": 765,
+              "name": "nota4",
+              "fill": "#666",
+              "content": "• Controle FRONT/REAR no Goldship = Volume Fundo/Frente",
+              "fontFamily": "Inter",
+              "fontSize": 8,
+              "fontWeight": "normal"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
